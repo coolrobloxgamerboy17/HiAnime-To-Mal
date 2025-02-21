@@ -33,5 +33,6 @@
 **To do list**
 - Add a terminal that opens showing the progress of something that takes long.
 - Add AniList also.
-- Make all the prints amazing (look cool)
-- Add the Hawk Tuah girl rugpulling her crypto coin
+- Fix the error code 400's and 405's. With the 405's I need to fix the "fixing".
+- Make all the prints amazing (look cool).
+- Add the Hawk Tuah girl rugpulling her crypto coin while talking on talk tuah.
