@@ -24,4 +24,5 @@
   3. Right click on the Mal anime page and press "Inspect element"
   4. Wait for the page to !fully! load and then press on the "(\)" icon next to the red icon. It should be just under network. If you hover over it for like 2 seconds it should say "Clear network log - Ctrl+L"
   5. Click on add to list and check in the "Inspect element" page again
-  6. There should be a new item with this icon -> $\color{orange}{\lbrace;\rbrace}$
+  6. There should be a new item with this icon -> "$\color{orange}{\lbrace;\rbrace}$". It should be called "add.json" (next step below)
+  7. Right click on it, hover over copy, and press "Copy as cURL (bash)"
