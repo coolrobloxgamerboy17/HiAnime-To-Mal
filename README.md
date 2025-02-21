@@ -7,7 +7,8 @@
 4. Wait again for the script to get Mal ids (might take like 5m)
 5. Input your "cURL (bash)" request (Look below again to see how)
 6. Wait for the script to add the anime to your Mal list
-7. All Done<br><br>
+7. All Done
+<br>
 
 **How to get the stuff**
 - *connect.sid*
