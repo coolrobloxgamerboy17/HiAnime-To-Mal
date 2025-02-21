@@ -29,9 +29,9 @@
 
 I have a problem with my LaTeX document on Overleaf.
 
-Whenever I try to put a semicolon or a "defined by" symbol (\coloneqq) in math mode, the document fails to compile.
+Whenever I try to put a $\semicolon$ or a "defined by" symbol ($\coloneqq$) in math mode, the document fails to compile.
 
-Of course, I included the \babel, \inputenc and \fontec packages as well as mathtools for the \coloneqq command.
+Of course, I included the $\babel$, $\inputenc$ and $\fontec$ packages as well as mathtools for the $\coloneqq$ command.
 
 Does anyone have an idea ? This issue does not seem to be very common...
 
