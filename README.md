@@ -24,15 +24,4 @@
   3. Right click on the Mal anime page and press "Inspect element"
   4. Wait for the page to !fully! load and then press on the "(\)" icon next to the red icon. It should be just under network. If you hover over it for like 2 seconds it should say "Clear network log - Ctrl+L"
   5. Click on add to list and check in the "Inspect element" page again
-  6. There should be a new item with this icon -> $\color{orange}{\lbrace\coloneqq\rbrace}$
- 
-
-I have a problem with my LaTeX document on Overleaf.
-
-Whenever I try to put a $\semicolon$ or a "defined by" symbol ($\coloneqq$) in math mode, the document fails to compile.
-
-Of course, I included the $\babel$, $\inputenc$ and $\fontec$ packages as well as mathtools for the $\coloneqq$ command.
-
-Does anyone have an idea ? This issue does not seem to be very common...
-
-Thanks.
+  6. There should be a new item with this icon -> $\color{orange}{\lbrace;\rbrace}$
