@@ -27,7 +27,7 @@
   5. Click on add to list and check in the "Inspect element" page again
   6. There should be a new item with this icon -> " $\color{orange}{\lbrace;\rbrace}$ ". It should be called "add.json" (next step below)
   7. Right click on it, hover over copy, and press "Copy as cURL (bash)"
-  8. Paste it in the "Main.py" terminal
+  8. Paste it in the "Main.py" terminal (as 1 line)
 <br>
 
 **To do list**
