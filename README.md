@@ -9,6 +9,7 @@
 6. Wait for the script to add the anime to your Mal list
 7. All Done
 
+
 **How to get the stuff**
 - *connect.sid*
   1. Login to HiAnime and go the home page (You cannot be on a anime page. It will redirect you)
@@ -27,6 +28,7 @@
   6. There should be a new item with this icon -> " $\color{orange}{\lbrace;\rbrace}$ ". It should be called "add.json" (next step below)
   7. Right click on it, hover over copy, and press "Copy as cURL (bash)"
   8. Paste it in the "Main.py" terminal
+
 
 **To do list**
 - Add a terminal that opens showing the progress of something that takes long.
