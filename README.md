@@ -39,6 +39,6 @@
 <br>
 
 **Info**
-- I feel like a fucking dweeb making this.
+- I feel like a fucking loser making this. Half of the anime fans are... you know. Fat.
 - I really wouldnt use this script right now since it's kinda ass. It can only do like 120-140 before it breaks for some reason.
 - If anyone wants to fork this or something, do it. 
