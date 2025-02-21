@@ -9,7 +9,7 @@
 6. Wait for the script to add the anime to your Mal list
 7. All Done
 
-\n
+b__
 
 **How to get the stuff**
 - *connect.sid*
