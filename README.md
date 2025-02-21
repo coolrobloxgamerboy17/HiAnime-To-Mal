@@ -7,9 +7,7 @@
 4. Wait again for the script to get Mal ids (might take like 5m)
 5. Input your "cURL (bash)" request (Look below again to see how)
 6. Wait for the script to add the anime to your Mal list
-7. All Done
-
-b__
+7. All Done<br><br>
 
 **How to get the stuff**
 - *connect.sid*
@@ -28,9 +26,7 @@ b__
   5. Click on add to list and check in the "Inspect element" page again
   6. There should be a new item with this icon -> " $\color{orange}{\lbrace;\rbrace}$ ". It should be called "add.json" (next step below)
   7. Right click on it, hover over copy, and press "Copy as cURL (bash)"
-  8. Paste it in the "Main.py" terminal
- 
-
+  8. Paste it in the "Main.py" terminal<br><br>
 **To do list**
 - Add a terminal that opens showing the progress of something that takes long.
 - Add AniList also.
