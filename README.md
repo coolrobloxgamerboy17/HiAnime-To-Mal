@@ -33,4 +33,5 @@
 **To do list**
 - Add a terminal that opens showing the progress of something that takes long.
 - Add AniList also.
+- Make all the prints amazing (look cool)
 - Add the Hawk Tuah girl rugpulling her crypto coin
