@@ -8,7 +8,9 @@
 5. Input your "cURL (bash)" request (Look below again to see how)
 6. Wait for the script to add the anime to your Mal list
 7. All Done
+
 \n
+
 **How to get the stuff**
 - *connect.sid*
   1. Login to HiAnime and go the home page (You cannot be on a anime page. It will redirect you)
