@@ -18,7 +18,7 @@
   3. Go to "Application" at the top and click on it.
   4. In the left panel, click on the "Cookies" dropdown.
   5. In the dropdown menu, select "https://hianime.to."
-  6. Find "connect.sid," copy it, and paste it into the "Main.py" terminal.
+  6. Find "connect.sid," copy it, and paste it into the `Main.py` terminal.
 
 - *cURL*
   1. Log in to MyAnimeList (Mal).
@@ -28,7 +28,7 @@
   5. Click "Add to List" and check the "Inspect Element" panel again.
   6. There should be a new item with this icon -> "$\color{orange}{\lbrace;\rbrace}$." It should be called "add.json" (see the next step).
   7. Right-click on it, hover over "Copy," and select "Copy as cURL (bash)."
-  8. Paste it into the "Main.py" terminal (as one line).
+  8. Paste it into the `Main.py` terminal (as one line).
 
 <br>
 
