@@ -35,10 +35,11 @@
 - Add AniList also.
 - Fix the error code 400's and 405's. With the 405's I need to fix the "fixing".
 - Make all the prints amazing (look cool).
+- Add checking for lost anime back.
+- Make the printing show the name not the Id (Also the status).
 - Add the Hawk Tuah girl rugpulling her crypto coin while talking on talk tuah.
 <br>
 
 **Info**
-- I feel like a fucking loser making this. Half of the anime fans are... you know. Fat.
 - I really wouldnt use this script right now since it's kinda ass. It can only do like 120-140 before it breaks for some reason.
 - If anyone wants to fork this or something, do it. 
