@@ -26,7 +26,7 @@
   3. Right-click on the Mal anime page and select "Inspect Element."
   4. Wait for the page to fully load, then click the "(\)" icon next to the red icon, located just under the "Network" tab. If you hover over it for a couple of seconds, it should say "Clear network log - Ctrl+L."
   5. Click "Add to List" and check the "Inspect Element" panel again.
-  6. There should be a new item with this icon -> "$\color{orange}{\lbrace;\rbrace}$." It should be called "add.json" (see the next step).
+  6. There should be a new item with this icon -> " $\color{orange}{\lbrace;\rbrace}$ " It should be called "add.json" (see the next step).
   7. Right-click on it, hover over "Copy," and select "Copy as cURL (bash)."
   8. Paste it into the `Main.py` terminal (as one line).
 
