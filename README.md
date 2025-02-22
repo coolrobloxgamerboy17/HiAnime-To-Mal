@@ -1,45 +1,50 @@
 # HiAnime-To-Mal
 
-**How to use**
-1. Run "Main.py"
-2. Input your HiAnime "connect.sid" cookie (Look below to see how to get it)
-3. Wait until it finishes
-4. Wait again for the script to get Mal ids (might take like 5m)
-5. Input your "cURL (bash)" request (Look below again to see how)
-6. Wait for the script to add the anime to your Mal list
-7. All Done
+**How to Use**
+1. Run `Main.py`.
+2. Input your HiAnime "connect.sid" cookie (see below for instructions on how to obtain it).
+3. Wait until the script finishes.
+4. Wait for the script to retrieve Mal IDs (this might take about 5 minutes).
+5. Input your "cURL (bash)" request (see below for instructions).
+6. Wait for the script to add the anime to your Mal list.
+7. All done!
+
 <br>
 
-**How to get the stuff**
+**How to Obtain the Required Information**
 - *connect.sid*
-  1. Login to HiAnime and go the home page (You cannot be on a anime page. It will redirect you)
-  2. Right click on HiAnime and press "Inspect element"
-  3. Go to "Application" at the top and click on it
-  4. On the left click on the "Cookies" dropdown button
-  5. In the dropdown menu click on "https://hianime.to"
-  6. Now find "connect.sid", copy it and then paste it in the "Main.py" terminal
+  1. Log in to HiAnime and go to the home page (you cannot be on an anime page, as it will redirect you).
+  2. Right-click on the HiAnime page and select "Inspect Element."
+  3. Go to "Application" at the top and click on it.
+  4. In the left panel, click on the "Cookies" dropdown.
+  5. In the dropdown menu, select "https://hianime.to."
+  6. Find "connect.sid," copy it, and paste it into the "Main.py" terminal.
 
 - *cURL*
-  1. Login to Mal
-  2. Go to a random anime that is not in your list (I like to do "One Piece")
-  3. Right click on the Mal anime page and press "Inspect element"
-  4. Wait for the page to !fully! load and then press on the "(\)" icon next to the red icon. It should be just under network. If you hover over it for like 2 seconds it should say "Clear network log - Ctrl+L"
-  5. Click on add to list and check in the "Inspect element" page again
-  6. There should be a new item with this icon -> " $\color{orange}{\lbrace;\rbrace}$ ". It should be called "add.json" (next step below)
-  7. Right click on it, hover over copy, and press "Copy as cURL (bash)"
-  8. Paste it in the "Main.py" terminal (as 1 line)
+  1. Log in to MyAnimeList (Mal).
+  2. Go to a random anime that is not in your list (I like to use "One Piece").
+  3. Right-click on the Mal anime page and select "Inspect Element."
+  4. Wait for the page to fully load, then click the "(\)" icon next to the red icon, located just under the "Network" tab. If you hover over it for a couple of seconds, it should say "Clear network log - Ctrl+L."
+  5. Click "Add to List" and check the "Inspect Element" panel again.
+  6. There should be a new item with this icon -> "$\color{orange}{\lbrace;\rbrace}$." It should be called "add.json" (see the next step).
+  7. Right-click on it, hover over "Copy," and select "Copy as cURL (bash)."
+  8. Paste it into the "Main.py" terminal (as one line).
+
 <br>
 
-**To do list**
-- Add a terminal that opens showing the progress of something that takes long.
-- Add AniList also.
-- Fix the error code 400's and 405's. With the 405's I need to fix the "fixing".
-- Make all the prints amazing (look cool).
-- Add checking for lost anime back.
-- Make the printing show the name not the Id (Also the status).
-- Add the Hawk Tuah girl rugpulling her crypto coin while talking on talk tuah.
+**To-Do List**
+- Add a terminal that opens to show the progress of long-running tasks.
+- Add AniList support.
+- Implement step-saving to avoid redoing tasks in case of mistakes.
+- Add cURL validation to check if it is valid.
+- Fix error codes 400 and 405; for the 405 errors, I need to address the "fixing."
+- Enhance print statements for better visual appeal.
+- Implement a check for lost anime.
+- Display the name instead of the ID (and include the status).
+- Add the Hawk Tuah girl rug-pulling her crypto coin while talking on Talk Tuah.
+
 <br>
 
 **Info**
-- I really wouldnt use this script right now since it's kinda ass. It can only do like 120-140 before it breaks for some reason.
-- If anyone wants to fork this or something, do it. 
+- I would not recommend using this script right now, as it has some limitations. It can only handle about 120-140 requests before it breaks for some reason.
+- If anyone wants to fork this or something similar, feel free to do so.
